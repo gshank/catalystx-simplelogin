@@ -21,7 +21,7 @@ after 'login_POST' => sub {
 
 =head1 NAME
 
-CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate
+CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate - render a login form with no template file
 
 =head1 DESCRIPTION
 
